@@ -1,6 +1,6 @@
 <template>
-  <h1 class="text-2xl font-bold text-gray-900 dark:text-gray-500">Patient List</h1>  
-  
+  <h1 class="text-2xl mt-5 font-bold text-gray-900 dark:text-gray-500">Patient List</h1>  
+   
   <section id="container" class=" hidden  flex-wrap gap-4 mt-20">
     <div 
       v-for="each in patients.result"

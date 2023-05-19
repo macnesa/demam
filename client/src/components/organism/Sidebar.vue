@@ -43,7 +43,7 @@
             </li> -->
               <li>
                   <a href="#" class="flex pointer-events-none items-center p-2 text-base font-normal text-gray-900 rounded-lg transition duration-75 hover:bg-gray-100 dark:hover:bg-gray-700 dark:text-white group">
-                      <span class="ml-3">by Zi.Care</span>
+                      <span class="ml-3">Zi.Care</span>
                   </a>
               </li> 
           </ul>

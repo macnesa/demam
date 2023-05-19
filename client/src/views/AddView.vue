@@ -108,7 +108,7 @@ export default {
                 <MainInput 
                   type="url" 
                   label1="Image Url" 
-                  placeholder="E.g 147...."
+                  placeholder="E.g https://...."
                   @onchange="patient.image_url = $event"
                 />
               </div>
